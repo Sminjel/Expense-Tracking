@@ -84,5 +84,5 @@ This project can be used as the database backbone for an Expense Tracker applica
 ## Author
 
 - **Name**: Simangele
-- **GitHub**: [yourusername](https://github.com/smangelent@gmail.com)
+- **GitHub**: (https://github.com/smangelent@gmail.com)
 - **Email**: smangelent@gmail.com
